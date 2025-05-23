@@ -661,7 +661,7 @@ p {
     position: absolute;
     width: 2px;
     height: 2px;
-    background: rgb(104, 90, 226);
+    background: rgb(123, 123, 216);
     border-radius: 50%;
     opacity: 0.8;
     animation: twinkle 2s infinite alternate;
